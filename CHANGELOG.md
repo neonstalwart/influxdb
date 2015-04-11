@@ -7,6 +7,7 @@
 
 ## Features
 - [#2276](https://github.com/influxdb/influxdb/pull/2276): Broker topic truncation.
+- [#2246](https://github.com/influxdb/influxdb/pull/2246): Allow HTTP logging to be controlled.
 
 ## v0.9.0-rc24 [2015-04-13]
 
